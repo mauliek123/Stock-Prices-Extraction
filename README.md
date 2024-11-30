@@ -1,4 +1,4 @@
-Markup: #Stock Price Scraper#
+#Stock Price Scraper#
 This Python script scrapes stock price data from the Groww website for a list of US stocks. It extracts the stock name, current price, price change, and trading volume, and saves the data into an Excel file for further analysis.
 
 Features:-
